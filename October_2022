@@ -14,3 +14,8 @@ not yet know how to handle the potential problems caused by P = NP.
 < Bomb Lab > 10/28
 Defused the binary bomb consecutively for the past 12 hours. Didn't really understand some of the later phases so I brute forced through them. However,
 for the sake of learning, I will attempt to defuse the bomb (ideally a new one) without any tips. Most importantly, I hate GDB.
+
+
+< Bomb Lab pt2> 10/29
+Successfully defused all phases (including the secret phase) of the binary bomb. Still, I'm having trouble tracking the arguments to the functions as
+they move within the stack.
