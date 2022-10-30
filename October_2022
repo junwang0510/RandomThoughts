@@ -16,6 +16,10 @@ Defused the binary bomb consecutively for the past 12 hours. Didn't really under
 for the sake of learning, I will attempt to defuse the bomb (ideally a new one) without any tips. Most importantly, I hate GDB.
 
 
-< Bomb Lab pt2> 10/29
+< Bomb Lab pt2 > 10/29
 Successfully defused all phases (including the secret phase) of the binary bomb. Still, I'm having trouble tracking the arguments to the functions as
 they move within the stack.
+
+
+< Trigonometry Tricks > 10/30
+I learned a neat trick to calculating common trigonometric angle values with my hand.
