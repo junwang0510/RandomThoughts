@@ -12,7 +12,7 @@ When wire wane, wireless will win. Magsafe might be the future.
 
 < BEST IDE for Programming > 11/12
 I've tried various IDEs over the past year (VS Code, JetBrains's IDEs, Sublime Text, Vim, ...). To me, there is no single best IDE for programming. It depends 
-heavily on your goals. If I'm practicing data structures and algorithms, I would prefer to use JetBrains's IDEs because a single language is sufficient. However, 
-if I am working on a full-stack school project where I have to work with multiple languages, VS Code is the most convenient one to use. At the moment, I am not 
-using Vim a lot as I am navigating the code slower with it due to the lack of practice with key bindings. However, I am planning on using Vim Plugins on other IDEs 
-to ease the steep learning curve at the early stage.
+heavily on your goals. If I'm practicing data structures and algorithms, I would prefer to use JetBrains's IDEs because a single language is sufficient. 
+However, if I am working on a full-stack school project where I have to work with multiple languages, VS Code is the most convenient one to use. At the 
+moment, I am not using Vim a lot as I am navigating the code slower with it due to the lack of practice with key bindings. However, I am planning on using 
+Vim Plugins on other IDEs to ease the steep learning curve at the early stage.
