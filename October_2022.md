@@ -1,6 +1,6 @@
 # October 2022
 
-### 10/24:
+### 10/24
 
 `Is MAANG still worth it for SDE?`
 
@@ -18,7 +18,7 @@ IDK. Surrounded by talented individuals at UW, I know enough about what I don't 
 
 <br>
 
-### 10/28:
+### 10/28
 
 `Bomb Lab`
 
@@ -26,7 +26,7 @@ Defused the binary bomb consecutively for the past 12 hours. Didn't really under
 
 <br>
 
-### 10/29:
+### 10/29
 
 `Bomb Lab pt2`
 
@@ -34,7 +34,7 @@ Successfully defused all phases (including the secret phase) of the binary bomb.
 
 <br>
 
-### 10/30:
+### 10/30
 
 `Trigonometry Tricks`
 
