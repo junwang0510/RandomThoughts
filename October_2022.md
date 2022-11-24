@@ -12,8 +12,6 @@ Yes
 
 <br>
 
-### 10/24:
-
 `P = NP?`
 
 IDK. Surrounded by talented individuals at UW, I know enough about what I don't know. For security reasons, I wish that P != NP because the world does not yet know how to handle the potential problems caused by P = NP.
